@@ -4,7 +4,7 @@
 
 [источник](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works)
 
-Основные компоненты облачной платформы Azure представлены на рисунке ниже (см. ):
+Основные компоненты облачной платформы Azure представлены на рисунке ниже:
 
 ![](governance-1-21.png)
 
