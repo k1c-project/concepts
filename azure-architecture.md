@@ -26,6 +26,16 @@
 
 ![](governance-1-11.png)
 
+### Организация Azure
+
+Tenant - это логическая конструкция, представляющая безопасный выделенный экземпляр AAD (MS Entra ID).
+
+Иерархия организации представлена на рисунке ниже:
+
+![](az-scopes-billing.png)
+
+[Организация](https://learn.microsoft.com/en-us/microsoft-365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings?view=o365-worldwide#organization) представляет собой бизнес-сущность, которая использует облачные предложения Майкрософт, которые обычно определяются одним или несколькими доменными именами системы доменных имен (DNS), такими как contoso.com. Организация — это контейнер для подписок.
+
 ### Azure Resource Manager
 Служба для управления ресурсами Azure. Управление облачными ресурсами производится при помощи компонентов клиентского доступа (Azure portal, Azure PowerShell, Azure CLI, REST clients), которые обращаются к службе управления ресурсами (Azure Resource Manager) при помощи REST API, которая в свою очередь и осуществляет управление облачными ресурсами.
 
@@ -66,17 +76,6 @@ SRP: Провайдер ресурсов хранилища (Storage Resource Pr
 В последнюю очередь проверяется, остается ли запрос в рамках финансовых обязательств, которые вы связываете с подпиской. Например, если отправляется запрос на развертывание виртуальной машины, Azure Resource Manager проверяет платежную информацию в подписке.
 
 ![](governance-1-21.png)
-
-### Организация Azure
-
-Tenant - это логическая конструкция, представляющая безопасный выделенный экземпляр AAD (MS Entra ID).
-
-Иерархия организации представлена на рисунке ниже:
-
-![](az-scopes-billing.png)
-
-[Организация](https://learn.microsoft.com/en-us/microsoft-365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings?view=o365-worldwide#organization) представляет собой бизнес-сущность, которая использует облачные предложения Майкрософт, которые обычно определяются одним или несколькими доменными именами системы доменных имен (DNS), такими как contoso.com. Организация — это контейнер для подписок.
-
 
 ## Ссылки
 [Subscriptions, licenses, accounts, and tenants for Microsoft's cloud offerings](https://learn.microsoft.com/en-us/microsoft-365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings?view=o365-worldwide)
