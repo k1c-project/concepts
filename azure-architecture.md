@@ -22,6 +22,8 @@
 ### Подписка Azure
 Подписка Azure похожа на группу ресурсов в том, что это логический контейнер, который связывает группы ресурсов и соответствующие ресурсы. Тем не менее подписка Azure также связана с элементами управления, используемыми Azure Resource Manager.
 
+[Подписка](https://learn.microsoft.com/en-us/microsoft-365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings?view=o365-worldwide#subscriptions) — это соглашение с корпорацией Майкрософт на использование одной или нескольких облачных платформ или служб Майкрософт, за которые взимается плата (по лицензиям отдельных пользователей или по использованию облачных ресурсов).
+
 ![](governance-1-11.png)
 
 ### Azure Resource Manager
@@ -72,3 +74,11 @@ Tenant - это логическая конструкция, представл�
 Иерархия организации представлена на рисунке ниже:
 
 ![](az-scopes-billing.png)
+
+[Организация](https://learn.microsoft.com/en-us/microsoft-365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings?view=o365-worldwide#organization) представляет собой бизнес-сущность, которая использует облачные предложения Майкрософт, которые обычно определяются одним или несколькими доменными именами системы доменных имен (DNS), такими как contoso.com. Организация — это контейнер для подписок.
+
+
+## Ссылки
+[Subscriptions, licenses, accounts, and tenants for Microsoft's cloud offerings](https://learn.microsoft.com/en-us/microsoft-365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings?view=o365-worldwide)
+
+[Resource access management in Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/how-azure-resource-manager-works#what-is-an-azure-resource-group)
