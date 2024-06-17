@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Создано Microsoft Visio, экспорт SVG planned-architecture.svg Page-1 -->
+<!-- Создано Microsoft Visio, экспорт SVG planned-architecture.svg Page-3 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		width="11.6929in" height="8.26772in" viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB"
 		class="st29">
@@ -20,7 +20,7 @@
 		.st12 {fill:#57a300;stroke:none;stroke-linecap:butt;stroke-width:12.24}
 		.st13 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st14 {fill:#000000;font-family:Calibri;font-size:1.33333em}
-		.st15 {fill:url(#grad0-87);stroke:none;stroke-linecap:butt;stroke-width:34}
+		.st15 {fill:url(#grad0-84);stroke:none;stroke-linecap:butt;stroke-width:34}
 		.st16 {fill:#e8e8e8;stroke:none;stroke-linecap:butt;stroke-width:34}
 		.st17 {fill:#50e6ff;stroke:none;stroke-linecap:butt;stroke-width:34}
 		.st18 {fill:#198ab3;stroke:none;stroke-linecap:butt;stroke-width:34}
@@ -30,16 +30,16 @@
 		.st22 {fill:#000000;font-family:Calibri;font-size:1.00001em}
 		.st23 {fill:#73ae42;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
 		.st24 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:34}
-		.st25 {fill:url(#grad0-318);stroke:none;stroke-linecap:butt;stroke-width:34}
+		.st25 {fill:url(#grad0-313);stroke:none;stroke-linecap:butt;stroke-width:34}
 		.st26 {fill:#53b1e0;stroke:none;stroke-linecap:butt;stroke-width:34}
 		.st27 {fill:#9cebff;stroke:none;stroke-linecap:butt;stroke-width:34}
-		.st28 {fill:url(#grad0-326);stroke:none;stroke-linecap:butt;stroke-width:34}
+		.st28 {fill:url(#grad0-321);stroke:none;stroke-linecap:butt;stroke-width:34}
 		.st29 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
 	<defs id="Patterns_And_Gradients">
-		<linearGradient id="grad0-87" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-0.0087329700482936 0.5 0.5)">
+		<linearGradient id="grad0-84" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-0.0087329700482936 0.5 0.5)">
 			<stop offset="0" stop-color="#005ba1" stop-opacity="1"/>
 			<stop offset="0.07" stop-color="#0060a9" stop-opacity="1"/>
 			<stop offset="0.36" stop-color="#0071c8" stop-opacity="1"/>
@@ -48,11 +48,11 @@
 			<stop offset="0.82" stop-color="#006abb" stop-opacity="1"/>
 			<stop offset="1" stop-color="#005ba1" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-318" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-133.54829310906 0.5 0.5)">
+		<linearGradient id="grad0-313" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-133.54829310906 0.5 0.5)">
 			<stop offset="0" stop-color="#1988d9" stop-opacity="1"/>
 			<stop offset="0.9" stop-color="#54aef0" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-326" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(65.834982258294 0.5 0.5)">
+		<linearGradient id="grad0-321" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(65.834982258294 0.5 0.5)">
 			<stop offset="0.1" stop-color="#54aef0" stop-opacity="1"/>
 			<stop offset="0.29" stop-color="#4fabee" stop-opacity="1"/>
 			<stop offset="0.51" stop-color="#41a2e9" stop-opacity="1"/>
@@ -61,229 +61,224 @@
 		</linearGradient>
 	</defs>
 	<g>
-		<title>Страница-1</title>
-		<g id="shape49-1" transform="translate(70.8661,-467.717)">
+		<title>Страница-3</title>
+		<g id="shape49-1" transform="translate(70.8661,-368.504)">
 			<title>Прямоугольник.49</title>
 			<rect x="0" y="524.409" width="694.488" height="70.8661" class="st1"/>
 		</g>
-		<g id="shape48-3" transform="translate(56.6929,-481.89)">
+		<g id="shape48-3" transform="translate(56.6929,-382.677)">
 			<title>Прямоугольник.48</title>
 			<rect x="0" y="524.409" width="694.488" height="70.8661" class="st1"/>
 		</g>
-		<g id="shape43-5" transform="translate(42.5197,-496.063)">
+		<g id="shape43-5" transform="translate(42.5197,-396.85)">
 			<title>Прямоугольник</title>
-			<desc>Портал организации</desc>
+			<desc>Менеджер ресурсов + портал</desc>
 			<rect x="0" y="524.409" width="694.488" height="70.8661" class="st1"/>
-			<text x="212.85" y="568.84" class="st2">Портал организации</text>		</g>
-		<g id="shape44-8" transform="translate(70.8661,-368.504)">
-			<title>Прямоугольник.44</title>
-			<desc>Менеджер ресурсов</desc>
-			<rect x="0" y="524.409" width="666.142" height="70.8661" class="st1"/>
-			<text x="199.11" y="568.84" class="st2">Менеджер ресурсов</text>		</g>
-		<g id="shape45-11" transform="translate(70.8661,-99.2126)">
+			<text x="153.77" y="568.84" class="st2">Менеджер ресурсов + портал</text>		</g>
+		<g id="shape45-8" transform="translate(70.8661,-99.2126)">
 			<title>Прямоугольник.45</title>
 			<rect x="0" y="368.504" width="212.598" height="226.772" class="st3"/>
 		</g>
-		<g id="shape51-13" transform="translate(85.0394,-198.425)">
+		<g id="shape51-10" transform="translate(85.0394,-198.425)">
 			<title>Прямоугольник.51</title>
 			<rect x="0" y="510.236" width="184.252" height="85.0394" class="st4"/>
 		</g>
-		<g id="group54-15" transform="translate(99.2126,-212.598)">
+		<g id="group54-12" transform="translate(99.2126,-212.598)">
 			<title>Container Instances</title>
-			<g id="shape55-16" transform="translate(0,-13.6293)">
+			<g id="shape55-13" transform="translate(0,-13.6293)">
 				<title>Лист.55</title>
 				<path d="M31.5 579.65 A9.03246 9.03246 -180 0 0 15.14 574.88 A7.15085 7.15085 -180 0 0 3.84 582.3 A6.79119 6.79119
 							 -180 0 0 6.64 595.28 L29.64 595.28 A7.92242 7.92242 -180 0 0 31.5 579.65 Z" class="st5"/>
 			</g>
-			<g id="shape56-18" transform="translate(0,-13.6293)">
+			<g id="shape56-15" transform="translate(0,-13.6293)">
 				<title>Лист.56</title>
 				<path d="M31.5 579.65 A9.03246 9.03246 -180 0 0 15.14 574.88 A7.15085 7.15085 -180 0 0 3.84 582.3 A6.79119 6.79119
 							 -180 0 0 6.64 595.28 L29.64 595.28 A7.92242 7.92242 -180 0 0 31.5 579.65 Z" class="st6"/>
 			</g>
-			<g id="shape57-20" transform="translate(8.85824,1.13687E-13)">
+			<g id="shape57-17" transform="translate(8.85824,1.13687E-13)">
 				<title>Лист.57</title>
 				<path d="M0.76 574.07 a0.757185 0.757185 -180 0 0 -0.757185 0.757185 L0 594.52 a0.757185 0.757185 -180 0 0 0.757185
 							 0.757185 L18.93 595.28 a0.757185 0.757185 -180 0 0 0.757185 -0.757185 L19.69 574.83 a0.757185 0.757185
 							 -180 0 0 -0.757185 -0.757185 L0.76 574.07 Z" class="st7"/>
 			</g>
-			<g id="shape58-22" transform="translate(20.1781,-25.7443)">
+			<g id="shape58-19" transform="translate(20.1781,-25.7443)">
 				<title>Лист.58</title>
 			</g>
-			<g id="shape59-23" transform="translate(26.2356,-22.7155)">
+			<g id="shape59-20" transform="translate(26.2356,-22.7155)">
 				<title>Лист.59</title>
 			</g>
-			<g id="shape60-24" transform="translate(14.9157,-21.2012)">
+			<g id="shape60-21" transform="translate(14.9157,-21.2012)">
 				<title>Лист.60</title>
 				<path d="M2.27 595.28 L2.27 589.98 L0 589.98 L3.79 584.68 L7.57 589.98 L5.3 589.98 L5.3 595.28 L2.27 595.28 Z"
 						class="st5"/>
 			</g>
-			<g id="shape61-26" transform="translate(20.1781,-25.7443)">
+			<g id="shape61-23" transform="translate(20.1781,-25.7443)">
 				<title>Лист.61</title>
 			</g>
-			<g id="shape62-27" transform="translate(11.1298,-2.27155)">
+			<g id="shape62-24" transform="translate(11.1298,-2.27155)">
 				<title>Лист.62</title>
 				<path d="M13.63 578.62 L0 578.62 L0 595.28 L15.14 595.28 L15.14 578.62 L13.63 578.62 ZM4.54 593.76 L1.51 593.76 L1.51
 							 580.13 L4.54 580.13 L4.54 593.76 ZM9.09 593.76 L6.06 593.76 L6.06 580.13 L9.09 580.13 L9.09 593.76 ZM13.63
 							 593.76 L10.6 593.76 L10.6 580.13 L13.63 580.13 L13.63 593.76 Z" class="st8"/>
 			</g>
-			<g id="shape63-29" transform="translate(11.1298,-2.27155)">
+			<g id="shape63-26" transform="translate(11.1298,-2.27155)">
 				<title>Лист.63</title>
 				<path d="M13.63 578.62 L0 578.62 L0 595.28 L15.14 595.28 L15.14 578.62 L13.63 578.62 ZM4.54 593.76 L1.51 593.76 L1.51
 							 580.13 L4.54 580.13 L4.54 593.76 ZM9.09 593.76 L6.06 593.76 L6.06 580.13 L9.09 580.13 L9.09 593.76 ZM13.63
 							 593.76 L10.6 593.76 L10.6 580.13 L13.63 580.13 L13.63 593.76 Z" class="st5"/>
 			</g>
 		</g>
-		<g id="group78-31" transform="translate(89.9858,-113.386)">
+		<g id="group78-28" transform="translate(89.9858,-113.386)">
 			<title>Hosts</title>
-			<g id="group79-32">
+			<g id="group79-29">
 				<title>Лист.79</title>
-				<g id="shape80-33" transform="translate(21.6878,-7.89208)">
+				<g id="shape80-30" transform="translate(21.6878,-7.89208)">
 					<title>Лист.80</title>
 					<rect x="0" y="563.315" width="3.42439" height="31.961" class="st9"/>
 				</g>
-				<g id="shape81-35" transform="translate(0,-39.8531)">
+				<g id="shape81-32" transform="translate(0,-39.8531)">
 					<title>Лист.81</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape82-37" transform="translate(38.8098,-43.2774)">
+				<g id="shape82-34" transform="translate(38.8098,-43.2774)">
 					<title>Лист.82</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape83-39" transform="translate(0,-18.1652)">
+				<g id="shape83-36" transform="translate(0,-18.1652)">
 					<title>Лист.83</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape84-41" transform="translate(38.8098,-21.5896)">
+				<g id="shape84-38" transform="translate(38.8098,-21.5896)">
 					<title>Лист.84</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape85-43" transform="translate(18.3776,0)">
+				<g id="shape85-40" transform="translate(18.3776,0)">
 					<title>Лист.85</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st12"/>
 				</g>
-				<g id="shape86-45" transform="translate(18.3776,-0.0159805)">
+				<g id="shape86-42" transform="translate(18.3776,-0.0159805)">
 					<title>Лист.86</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st9"/>
 				</g>
 			</g>
 		</g>
-		<g id="group92-47" transform="translate(151.625,-113.386)">
+		<g id="group92-44" transform="translate(151.625,-113.386)">
 			<title>Hosts.92</title>
-			<g id="group93-48">
+			<g id="group93-45">
 				<title>Лист.93</title>
-				<g id="shape94-49" transform="translate(21.6878,-7.89208)">
+				<g id="shape94-46" transform="translate(21.6878,-7.89208)">
 					<title>Лист.94</title>
 					<rect x="0" y="563.315" width="3.42439" height="31.961" class="st9"/>
 				</g>
-				<g id="shape95-51" transform="translate(0,-39.8531)">
+				<g id="shape95-48" transform="translate(0,-39.8531)">
 					<title>Лист.95</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape96-53" transform="translate(38.8098,-43.2774)">
+				<g id="shape96-50" transform="translate(38.8098,-43.2774)">
 					<title>Лист.96</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape97-55" transform="translate(0,-18.1652)">
+				<g id="shape97-52" transform="translate(0,-18.1652)">
 					<title>Лист.97</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape98-57" transform="translate(38.8098,-21.5896)">
+				<g id="shape98-54" transform="translate(38.8098,-21.5896)">
 					<title>Лист.98</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape99-59" transform="translate(18.3776,0)">
+				<g id="shape99-56" transform="translate(18.3776,0)">
 					<title>Лист.99</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st12"/>
 				</g>
-				<g id="shape100-61" transform="translate(18.3776,-0.0159805)">
+				<g id="shape100-58" transform="translate(18.3776,-0.0159805)">
 					<title>Лист.100</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st9"/>
 				</g>
 			</g>
 		</g>
-		<g id="group101-63" transform="translate(212.598,-113.386)">
+		<g id="group101-60" transform="translate(212.598,-113.386)">
 			<title>Hosts.101</title>
-			<g id="group102-64">
+			<g id="group102-61">
 				<title>Лист.102</title>
-				<g id="shape103-65" transform="translate(21.6878,-7.89208)">
+				<g id="shape103-62" transform="translate(21.6878,-7.89208)">
 					<title>Лист.103</title>
 					<rect x="0" y="563.315" width="3.42439" height="31.961" class="st9"/>
 				</g>
-				<g id="shape104-67" transform="translate(0,-39.8531)">
+				<g id="shape104-64" transform="translate(0,-39.8531)">
 					<title>Лист.104</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape105-69" transform="translate(38.8098,-43.2774)">
+				<g id="shape105-66" transform="translate(38.8098,-43.2774)">
 					<title>Лист.105</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape106-71" transform="translate(0,-18.1652)">
+				<g id="shape106-68" transform="translate(0,-18.1652)">
 					<title>Лист.106</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape107-73" transform="translate(38.8098,-21.5896)">
+				<g id="shape107-70" transform="translate(38.8098,-21.5896)">
 					<title>Лист.107</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape108-75" transform="translate(18.3776,0)">
+				<g id="shape108-72" transform="translate(18.3776,0)">
 					<title>Лист.108</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st12"/>
 				</g>
-				<g id="shape109-77" transform="translate(18.3776,-0.0159805)">
+				<g id="shape109-74" transform="translate(18.3776,-0.0159805)">
 					<title>Лист.109</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st9"/>
 				</g>
 			</g>
 		</g>
-		<g id="shape110-79" transform="translate(99.2126,-297.638)">
+		<g id="shape110-76" transform="translate(99.2126,-297.638)">
 			<title>Лист.110</title>
 			<desc>Регион 1</desc>
 			<rect x="0" y="575.276" width="152" height="20" class="st13"/>
 			<text x="46.44" y="590.08" class="st14">Регион 1</text>		</g>
-		<g id="group112-82" transform="translate(155.906,-212.598)">
+		<g id="group112-79" transform="translate(155.906,-212.598)">
 			<title>Azure Database for PostgreSQL servers</title>
-			<g id="group113-83">
+			<g id="group113-80">
 				<title>Icon-databases-131</title>
-				<g id="shape114-84">
+				<g id="shape114-81">
 					<title>Лист.114</title>
 					<path d="M14.17 567.95 C6.35 567.95 0 565.74 0 562.82 L0 590.15 C0 592.95 6.24 595.23 13.97 595.28 L14.17 595.28
 								 C22 595.28 28.35 593.06 28.35 590.15 L28.35 562.82 C28.35 565.65 22 567.95 14.17 567.95 Z"
 							class="st15"/>
 				</g>
-				<g id="shape115-88" transform="translate(0,-27.3293)">
+				<g id="shape115-85" transform="translate(0,-27.3293)">
 					<title>Лист.115</title>
 					<path d="M28.35 590.15 C28.35 592.98 22 595.28 14.17 595.28 C6.35 595.28 0 593.06 0 590.15 C0 587.23 6.35 585.02
 								 14.17 585.02 C22 585.02 28.35 587.23 28.35 590.15 Z" class="st16"/>
 				</g>
-				<g id="shape116-90" transform="translate(3.29456,-29.6068)">
+				<g id="shape116-87" transform="translate(3.29456,-29.6068)">
 					<title>Лист.116</title>
 					<path d="M21.74 592 C21.74 593.82 16.87 595.28 10.88 595.28 C4.89 595.28 0 593.82 0 592.03 C0 590.23 4.86 588.75
 								 10.88 588.75 C16.89 588.75 21.74 590.21 21.74 592 Z" class="st17"/>
 				</g>
-				<g id="shape117-92" transform="translate(5.54989,-29.6068)">
+				<g id="shape117-89" transform="translate(5.54989,-29.6068)">
 					<title>Лист.117</title>
 					<path d="M8.62 592.82 A25.7595 25.7595 -180 0 0 -0 594.08 A25.4941 25.4941 -180 0 0 8.62 595.28 A25.3615 25.3615
 								 -180 0 0 17.22 593.99 A26.3786 26.3786 -180 0 0 8.62 592.82 Z" class="st18"/>
 				</g>
-				<g id="shape118-94" transform="translate(4.22322,-3.91367)">
+				<g id="shape118-91" transform="translate(4.22322,-3.91367)">
 					<title>Лист.118</title>
 					<path d="M16.58 580.39 L16.58 581.32 A11.3209 11.3209 -180 0 0 16.41 582.72 C16.41 582.98 16.41 583.38 16.52
 								 583.73 C16.63 584.09 16.52 584.33 16.52 584.53 A3.71467 3.71467 0 0 1 15.96 586.43 a0.950778 0.950778
@@ -330,24 +325,24 @@
 				</g>
 			</g>
 		</g>
-		<g id="group127-96" transform="translate(206.535,-212.598)">
+		<g id="group127-93" transform="translate(206.535,-212.598)">
 			<title>Local Network Gateways</title>
-			<g id="group128-97">
+			<g id="group128-94">
 				<title>Лист.128</title>
-				<g id="shape129-98">
+				<g id="shape129-95">
 					<title>Лист.129</title>
 					<path d="M18.71 595.28 C17.82 595.28 16.92 594.9 16.24 594.23 L1.05 579.03 C0.37 578.36 0 577.46 0 576.56 C0
 								 575.66 0.37 574.76 1.05 574.09 L16.24 558.9 C16.92 558.22 17.82 557.85 18.71 557.85 C19.61 557.85
 								 20.51 558.22 21.18 558.9 L36.46 574.17 C37.13 574.84 37.5 575.66 37.5 576.64 C37.5 577.53 37.13
 								 578.43 36.46 579.11 L21.18 594.23 C20.51 594.9 19.61 595.28 18.71 595.28 Z" class="st12"/>
 				</g>
-				<g id="shape130-100" transform="translate(-1.95843E-13,-7.63537)">
+				<g id="shape130-97" transform="translate(-1.95843E-13,-7.63537)">
 					<title>Лист.130</title>
 					<path d="M21.18 566.53 C20.51 565.86 19.61 565.48 18.71 565.48 C17.82 565.48 16.92 565.86 16.24 566.53 L1.05
 								 581.73 C0.37 582.4 0 583.3 0 584.2 C0 585.1 0.37 585.99 1.05 586.67 L9.66 595.28 L25.9 571.25 L21.18
 								 566.53 Z" class="st20"/>
 				</g>
-				<g id="shape131-102" transform="translate(4.79082,-3.29369)">
+				<g id="shape131-99" transform="translate(4.79082,-3.29369)">
 					<title>Лист.131</title>
 					<path d="M13.92 564.43 L8.98 569.38 L12.5 569.38 L12.5 576.56 L15.42 576.56 L15.42 569.38 L18.86 569.38 L13.92
 								 564.43 ZM13.92 595.28 L18.86 590.34 L15.35 590.34 L15.35 583.3 L12.43 583.3 L12.43 590.34 L8.98
@@ -357,215 +352,215 @@
 				</g>
 			</g>
 		</g>
-		<g id="shape132-104" transform="translate(99.2126,-259.291)">
+		<g id="shape132-101" transform="translate(99.2126,-259.291)">
 			<title>Лист.132</title>
 			<desc>Поставщики ресурсов</desc>
 			<rect x="0" y="575.276" width="152" height="20" class="st13"/>
 			<text x="20.26" y="588.88" class="st22">Поставщики ресурсов</text>		</g>
-		<g id="shape133-107" transform="translate(297.638,-99.2126)">
+		<g id="shape133-104" transform="translate(297.638,-99.2126)">
 			<title>Прямоугольник.133</title>
 			<rect x="0" y="368.504" width="212.598" height="226.772" class="st3"/>
 		</g>
-		<g id="shape134-109" transform="translate(311.811,-198.425)">
+		<g id="shape134-106" transform="translate(311.811,-198.425)">
 			<title>Прямоугольник.134</title>
 			<rect x="0" y="510.236" width="184.252" height="85.0394" class="st4"/>
 		</g>
-		<g id="group135-111" transform="translate(325.984,-212.598)">
+		<g id="group135-108" transform="translate(325.984,-212.598)">
 			<title>Container Instances.135</title>
-			<g id="shape136-112" transform="translate(0,-13.6293)">
+			<g id="shape136-109" transform="translate(0,-13.6293)">
 				<title>Лист.136</title>
 				<path d="M31.5 579.65 A9.03246 9.03246 -180 0 0 15.14 574.88 A7.15085 7.15085 -180 0 0 3.84 582.3 A6.79119 6.79119
 							 -180 0 0 6.64 595.28 L29.64 595.28 A7.92242 7.92242 -180 0 0 31.5 579.65 Z" class="st5"/>
 			</g>
-			<g id="shape137-114" transform="translate(0,-13.6293)">
+			<g id="shape137-111" transform="translate(0,-13.6293)">
 				<title>Лист.137</title>
 				<path d="M31.5 579.65 A9.03246 9.03246 -180 0 0 15.14 574.88 A7.15085 7.15085 -180 0 0 3.84 582.3 A6.79119 6.79119
 							 -180 0 0 6.64 595.28 L29.64 595.28 A7.92242 7.92242 -180 0 0 31.5 579.65 Z" class="st6"/>
 			</g>
-			<g id="shape138-116" transform="translate(8.85824,1.13687E-13)">
+			<g id="shape138-113" transform="translate(8.85824,1.13687E-13)">
 				<title>Лист.138</title>
 				<path d="M0.76 574.07 a0.757185 0.757185 -180 0 0 -0.757185 0.757185 L0 594.52 a0.757185 0.757185 -180 0 0 0.757185
 							 0.757185 L18.93 595.28 a0.757185 0.757185 -180 0 0 0.757185 -0.757185 L19.69 574.83 a0.757185 0.757185
 							 -180 0 0 -0.757185 -0.757185 L0.76 574.07 Z" class="st7"/>
 			</g>
-			<g id="shape139-118" transform="translate(20.1781,-25.7443)">
+			<g id="shape139-115" transform="translate(20.1781,-25.7443)">
 				<title>Лист.139</title>
 			</g>
-			<g id="shape140-119" transform="translate(26.2356,-22.7155)">
+			<g id="shape140-116" transform="translate(26.2356,-22.7155)">
 				<title>Лист.140</title>
 			</g>
-			<g id="shape141-120" transform="translate(14.9157,-21.2012)">
+			<g id="shape141-117" transform="translate(14.9157,-21.2012)">
 				<title>Лист.141</title>
 				<path d="M2.27 595.28 L2.27 589.98 L0 589.98 L3.79 584.68 L7.57 589.98 L5.3 589.98 L5.3 595.28 L2.27 595.28 Z"
 						class="st5"/>
 			</g>
-			<g id="shape142-122" transform="translate(20.1781,-25.7443)">
+			<g id="shape142-119" transform="translate(20.1781,-25.7443)">
 				<title>Лист.142</title>
 			</g>
-			<g id="shape143-123" transform="translate(11.1298,-2.27155)">
+			<g id="shape143-120" transform="translate(11.1298,-2.27155)">
 				<title>Лист.143</title>
 				<path d="M13.63 578.62 L0 578.62 L0 595.28 L15.14 595.28 L15.14 578.62 L13.63 578.62 ZM4.54 593.76 L1.51 593.76 L1.51
 							 580.13 L4.54 580.13 L4.54 593.76 ZM9.09 593.76 L6.06 593.76 L6.06 580.13 L9.09 580.13 L9.09 593.76 ZM13.63
 							 593.76 L10.6 593.76 L10.6 580.13 L13.63 580.13 L13.63 593.76 Z" class="st8"/>
 			</g>
-			<g id="shape144-125" transform="translate(11.1298,-2.27155)">
+			<g id="shape144-122" transform="translate(11.1298,-2.27155)">
 				<title>Лист.144</title>
 				<path d="M13.63 578.62 L0 578.62 L0 595.28 L15.14 595.28 L15.14 578.62 L13.63 578.62 ZM4.54 593.76 L1.51 593.76 L1.51
 							 580.13 L4.54 580.13 L4.54 593.76 ZM9.09 593.76 L6.06 593.76 L6.06 580.13 L9.09 580.13 L9.09 593.76 ZM13.63
 							 593.76 L10.6 593.76 L10.6 580.13 L13.63 580.13 L13.63 593.76 Z" class="st5"/>
 			</g>
 		</g>
-		<g id="group145-127" transform="translate(316.757,-113.386)">
+		<g id="group145-124" transform="translate(316.757,-113.386)">
 			<title>Hosts.145</title>
-			<g id="group146-128">
+			<g id="group146-125">
 				<title>Лист.146</title>
-				<g id="shape147-129" transform="translate(21.6878,-7.89208)">
+				<g id="shape147-126" transform="translate(21.6878,-7.89208)">
 					<title>Лист.147</title>
 					<rect x="0" y="563.315" width="3.42439" height="31.961" class="st9"/>
 				</g>
-				<g id="shape148-131" transform="translate(0,-39.8531)">
+				<g id="shape148-128" transform="translate(0,-39.8531)">
 					<title>Лист.148</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape149-133" transform="translate(38.8098,-43.2774)">
+				<g id="shape149-130" transform="translate(38.8098,-43.2774)">
 					<title>Лист.149</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape150-135" transform="translate(0,-18.1652)">
+				<g id="shape150-132" transform="translate(0,-18.1652)">
 					<title>Лист.150</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape151-137" transform="translate(38.8098,-21.5896)">
+				<g id="shape151-134" transform="translate(38.8098,-21.5896)">
 					<title>Лист.151</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape152-139" transform="translate(18.3776,0)">
+				<g id="shape152-136" transform="translate(18.3776,0)">
 					<title>Лист.152</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st12"/>
 				</g>
-				<g id="shape153-141" transform="translate(18.3776,-0.0159805)">
+				<g id="shape153-138" transform="translate(18.3776,-0.0159805)">
 					<title>Лист.153</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st9"/>
 				</g>
 			</g>
 		</g>
-		<g id="group154-143" transform="translate(378.397,-113.386)">
+		<g id="group154-140" transform="translate(378.397,-113.386)">
 			<title>Hosts.154</title>
-			<g id="group155-144">
+			<g id="group155-141">
 				<title>Лист.155</title>
-				<g id="shape156-145" transform="translate(21.6878,-7.89208)">
+				<g id="shape156-142" transform="translate(21.6878,-7.89208)">
 					<title>Лист.156</title>
 					<rect x="0" y="563.315" width="3.42439" height="31.961" class="st9"/>
 				</g>
-				<g id="shape157-147" transform="translate(0,-39.8531)">
+				<g id="shape157-144" transform="translate(0,-39.8531)">
 					<title>Лист.157</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape158-149" transform="translate(38.8098,-43.2774)">
+				<g id="shape158-146" transform="translate(38.8098,-43.2774)">
 					<title>Лист.158</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape159-151" transform="translate(0,-18.1652)">
+				<g id="shape159-148" transform="translate(0,-18.1652)">
 					<title>Лист.159</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape160-153" transform="translate(38.8098,-21.5896)">
+				<g id="shape160-150" transform="translate(38.8098,-21.5896)">
 					<title>Лист.160</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape161-155" transform="translate(18.3776,0)">
+				<g id="shape161-152" transform="translate(18.3776,0)">
 					<title>Лист.161</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st12"/>
 				</g>
-				<g id="shape162-157" transform="translate(18.3776,-0.0159805)">
+				<g id="shape162-154" transform="translate(18.3776,-0.0159805)">
 					<title>Лист.162</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st9"/>
 				</g>
 			</g>
 		</g>
-		<g id="group163-159" transform="translate(439.37,-113.386)">
+		<g id="group163-156" transform="translate(439.37,-113.386)">
 			<title>Hosts.163</title>
-			<g id="group164-160">
+			<g id="group164-157">
 				<title>Лист.164</title>
-				<g id="shape165-161" transform="translate(21.6878,-7.89208)">
+				<g id="shape165-158" transform="translate(21.6878,-7.89208)">
 					<title>Лист.165</title>
 					<rect x="0" y="563.315" width="3.42439" height="31.961" class="st9"/>
 				</g>
-				<g id="shape166-163" transform="translate(0,-39.8531)">
+				<g id="shape166-160" transform="translate(0,-39.8531)">
 					<title>Лист.166</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape167-165" transform="translate(38.8098,-43.2774)">
+				<g id="shape167-162" transform="translate(38.8098,-43.2774)">
 					<title>Лист.167</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape168-167" transform="translate(0,-18.1652)">
+				<g id="shape168-164" transform="translate(0,-18.1652)">
 					<title>Лист.168</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape169-169" transform="translate(38.8098,-21.5896)">
+				<g id="shape169-166" transform="translate(38.8098,-21.5896)">
 					<title>Лист.169</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape170-171" transform="translate(18.3776,0)">
+				<g id="shape170-168" transform="translate(18.3776,0)">
 					<title>Лист.170</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st12"/>
 				</g>
-				<g id="shape171-173" transform="translate(18.3776,-0.0159805)">
+				<g id="shape171-170" transform="translate(18.3776,-0.0159805)">
 					<title>Лист.171</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st9"/>
 				</g>
 			</g>
 		</g>
-		<g id="shape172-175" transform="translate(325.984,-297.638)">
+		<g id="shape172-172" transform="translate(325.984,-297.638)">
 			<title>Лист.172</title>
 			<desc>Регион 2</desc>
 			<rect x="0" y="575.276" width="152" height="20" class="st13"/>
 			<text x="46.44" y="590.08" class="st14">Регион 2</text>		</g>
-		<g id="group173-178" transform="translate(382.677,-212.598)">
+		<g id="group173-175" transform="translate(382.677,-212.598)">
 			<title>Azure Database for PostgreSQL servers.173</title>
-			<g id="group174-179">
+			<g id="group174-176">
 				<title>Icon-databases-131</title>
-				<g id="shape175-180">
+				<g id="shape175-177">
 					<title>Лист.175</title>
 					<path d="M14.17 567.95 C6.35 567.95 0 565.74 0 562.82 L0 590.15 C0 592.95 6.24 595.23 13.97 595.28 L14.17 595.28
 								 C22 595.28 28.35 593.06 28.35 590.15 L28.35 562.82 C28.35 565.65 22 567.95 14.17 567.95 Z"
 							class="st15"/>
 				</g>
-				<g id="shape176-183" transform="translate(0,-27.3293)">
+				<g id="shape176-180" transform="translate(0,-27.3293)">
 					<title>Лист.176</title>
 					<path d="M28.35 590.15 C28.35 592.98 22 595.28 14.17 595.28 C6.35 595.28 0 593.06 0 590.15 C0 587.23 6.35 585.02
 								 14.17 585.02 C22 585.02 28.35 587.23 28.35 590.15 Z" class="st16"/>
 				</g>
-				<g id="shape177-185" transform="translate(3.29456,-29.6068)">
+				<g id="shape177-182" transform="translate(3.29456,-29.6068)">
 					<title>Лист.177</title>
 					<path d="M21.74 592 C21.74 593.82 16.87 595.28 10.88 595.28 C4.89 595.28 0 593.82 0 592.03 C0 590.23 4.86 588.75
 								 10.88 588.75 C16.89 588.75 21.74 590.21 21.74 592 Z" class="st17"/>
 				</g>
-				<g id="shape178-187" transform="translate(5.54989,-29.6068)">
+				<g id="shape178-184" transform="translate(5.54989,-29.6068)">
 					<title>Лист.178</title>
 					<path d="M8.62 592.82 A25.7595 25.7595 -180 0 0 -0 594.08 A25.4941 25.4941 -180 0 0 8.62 595.28 A25.3615 25.3615
 								 -180 0 0 17.22 593.99 A26.3786 26.3786 -180 0 0 8.62 592.82 Z" class="st18"/>
 				</g>
-				<g id="shape179-189" transform="translate(4.22322,-3.91367)">
+				<g id="shape179-186" transform="translate(4.22322,-3.91367)">
 					<title>Лист.179</title>
 					<path d="M16.58 580.39 L16.58 581.32 A11.3209 11.3209 -180 0 0 16.41 582.72 C16.41 582.98 16.41 583.38 16.52
 								 583.73 C16.63 584.09 16.52 584.33 16.52 584.53 A3.71467 3.71467 0 0 1 15.96 586.43 a0.950778 0.950778
@@ -612,24 +607,24 @@
 				</g>
 			</g>
 		</g>
-		<g id="group180-191" transform="translate(433.306,-212.598)">
+		<g id="group180-188" transform="translate(433.306,-212.598)">
 			<title>Local Network Gateways.180</title>
-			<g id="group181-192">
+			<g id="group181-189">
 				<title>Лист.181</title>
-				<g id="shape182-193">
+				<g id="shape182-190">
 					<title>Лист.182</title>
 					<path d="M18.71 595.28 C17.82 595.28 16.92 594.9 16.24 594.23 L1.05 579.03 C0.37 578.36 0 577.46 0 576.56 C0
 								 575.66 0.37 574.76 1.05 574.09 L16.24 558.9 C16.92 558.22 17.82 557.85 18.71 557.85 C19.61 557.85
 								 20.51 558.22 21.18 558.9 L36.46 574.17 C37.13 574.84 37.5 575.66 37.5 576.64 C37.5 577.53 37.13
 								 578.43 36.46 579.11 L21.18 594.23 C20.51 594.9 19.61 595.28 18.71 595.28 Z" class="st12"/>
 				</g>
-				<g id="shape183-195" transform="translate(-1.95843E-13,-7.63537)">
+				<g id="shape183-192" transform="translate(-1.95843E-13,-7.63537)">
 					<title>Лист.183</title>
 					<path d="M21.18 566.53 C20.51 565.86 19.61 565.48 18.71 565.48 C17.82 565.48 16.92 565.86 16.24 566.53 L1.05
 								 581.73 C0.37 582.4 0 583.3 0 584.2 C0 585.1 0.37 585.99 1.05 586.67 L9.66 595.28 L25.9 571.25 L21.18
 								 566.53 Z" class="st20"/>
 				</g>
-				<g id="shape184-197" transform="translate(4.79082,-3.29369)">
+				<g id="shape184-194" transform="translate(4.79082,-3.29369)">
 					<title>Лист.184</title>
 					<path d="M13.92 564.43 L8.98 569.38 L12.5 569.38 L12.5 576.56 L15.42 576.56 L15.42 569.38 L18.86 569.38 L13.92
 								 564.43 ZM13.92 595.28 L18.86 590.34 L15.35 590.34 L15.35 583.3 L12.43 583.3 L12.43 590.34 L8.98
@@ -639,215 +634,215 @@
 				</g>
 			</g>
 		</g>
-		<g id="shape185-199" transform="translate(325.984,-259.291)">
+		<g id="shape185-196" transform="translate(325.984,-259.291)">
 			<title>Лист.185</title>
 			<desc>Поставщики ресурсов</desc>
 			<rect x="0" y="575.276" width="152" height="20" class="st13"/>
 			<text x="20.26" y="588.88" class="st22">Поставщики ресурсов</text>		</g>
-		<g id="shape186-202" transform="translate(524.409,-99.2126)">
+		<g id="shape186-199" transform="translate(524.409,-99.2126)">
 			<title>Прямоугольник.186</title>
 			<rect x="0" y="368.504" width="212.598" height="226.772" class="st3"/>
 		</g>
-		<g id="shape187-204" transform="translate(538.583,-198.425)">
+		<g id="shape187-201" transform="translate(538.583,-198.425)">
 			<title>Прямоугольник.187</title>
 			<rect x="0" y="510.236" width="184.252" height="85.0394" class="st4"/>
 		</g>
-		<g id="group188-206" transform="translate(552.756,-212.598)">
+		<g id="group188-203" transform="translate(552.756,-212.598)">
 			<title>Container Instances.188</title>
-			<g id="shape189-207" transform="translate(0,-13.6293)">
+			<g id="shape189-204" transform="translate(0,-13.6293)">
 				<title>Лист.189</title>
 				<path d="M31.5 579.65 A9.03246 9.03246 -180 0 0 15.14 574.88 A7.15085 7.15085 -180 0 0 3.84 582.3 A6.79119 6.79119
 							 -180 0 0 6.64 595.28 L29.64 595.28 A7.92242 7.92242 -180 0 0 31.5 579.65 Z" class="st5"/>
 			</g>
-			<g id="shape190-209" transform="translate(0,-13.6293)">
+			<g id="shape190-206" transform="translate(0,-13.6293)">
 				<title>Лист.190</title>
 				<path d="M31.5 579.65 A9.03246 9.03246 -180 0 0 15.14 574.88 A7.15085 7.15085 -180 0 0 3.84 582.3 A6.79119 6.79119
 							 -180 0 0 6.64 595.28 L29.64 595.28 A7.92242 7.92242 -180 0 0 31.5 579.65 Z" class="st6"/>
 			</g>
-			<g id="shape191-211" transform="translate(8.85824,1.13687E-13)">
+			<g id="shape191-208" transform="translate(8.85824,1.13687E-13)">
 				<title>Лист.191</title>
 				<path d="M0.76 574.07 a0.757185 0.757185 -180 0 0 -0.757185 0.757185 L0 594.52 a0.757185 0.757185 -180 0 0 0.757185
 							 0.757185 L18.93 595.28 a0.757185 0.757185 -180 0 0 0.757185 -0.757185 L19.69 574.83 a0.757185 0.757185
 							 -180 0 0 -0.757185 -0.757185 L0.76 574.07 Z" class="st7"/>
 			</g>
-			<g id="shape192-213" transform="translate(20.1781,-25.7443)">
+			<g id="shape192-210" transform="translate(20.1781,-25.7443)">
 				<title>Лист.192</title>
 			</g>
-			<g id="shape193-214" transform="translate(26.2356,-22.7155)">
+			<g id="shape193-211" transform="translate(26.2356,-22.7155)">
 				<title>Лист.193</title>
 			</g>
-			<g id="shape194-215" transform="translate(14.9157,-21.2012)">
+			<g id="shape194-212" transform="translate(14.9157,-21.2012)">
 				<title>Лист.194</title>
 				<path d="M2.27 595.28 L2.27 589.98 L0 589.98 L3.79 584.68 L7.57 589.98 L5.3 589.98 L5.3 595.28 L2.27 595.28 Z"
 						class="st5"/>
 			</g>
-			<g id="shape195-217" transform="translate(20.1781,-25.7443)">
+			<g id="shape195-214" transform="translate(20.1781,-25.7443)">
 				<title>Лист.195</title>
 			</g>
-			<g id="shape196-218" transform="translate(11.1298,-2.27155)">
+			<g id="shape196-215" transform="translate(11.1298,-2.27155)">
 				<title>Лист.196</title>
 				<path d="M13.63 578.62 L0 578.62 L0 595.28 L15.14 595.28 L15.14 578.62 L13.63 578.62 ZM4.54 593.76 L1.51 593.76 L1.51
 							 580.13 L4.54 580.13 L4.54 593.76 ZM9.09 593.76 L6.06 593.76 L6.06 580.13 L9.09 580.13 L9.09 593.76 ZM13.63
 							 593.76 L10.6 593.76 L10.6 580.13 L13.63 580.13 L13.63 593.76 Z" class="st8"/>
 			</g>
-			<g id="shape197-220" transform="translate(11.1298,-2.27155)">
+			<g id="shape197-217" transform="translate(11.1298,-2.27155)">
 				<title>Лист.197</title>
 				<path d="M13.63 578.62 L0 578.62 L0 595.28 L15.14 595.28 L15.14 578.62 L13.63 578.62 ZM4.54 593.76 L1.51 593.76 L1.51
 							 580.13 L4.54 580.13 L4.54 593.76 ZM9.09 593.76 L6.06 593.76 L6.06 580.13 L9.09 580.13 L9.09 593.76 ZM13.63
 							 593.76 L10.6 593.76 L10.6 580.13 L13.63 580.13 L13.63 593.76 Z" class="st5"/>
 			</g>
 		</g>
-		<g id="group198-222" transform="translate(543.529,-113.386)">
+		<g id="group198-219" transform="translate(543.529,-113.386)">
 			<title>Hosts.198</title>
-			<g id="group199-223">
+			<g id="group199-220">
 				<title>Лист.199</title>
-				<g id="shape200-224" transform="translate(21.6878,-7.89208)">
+				<g id="shape200-221" transform="translate(21.6878,-7.89208)">
 					<title>Лист.200</title>
 					<rect x="0" y="563.315" width="3.42439" height="31.961" class="st9"/>
 				</g>
-				<g id="shape201-226" transform="translate(0,-39.8531)">
+				<g id="shape201-223" transform="translate(0,-39.8531)">
 					<title>Лист.201</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape202-228" transform="translate(38.8098,-43.2774)">
+				<g id="shape202-225" transform="translate(38.8098,-43.2774)">
 					<title>Лист.202</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape203-230" transform="translate(0,-18.1652)">
+				<g id="shape203-227" transform="translate(0,-18.1652)">
 					<title>Лист.203</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape204-232" transform="translate(38.8098,-21.5896)">
+				<g id="shape204-229" transform="translate(38.8098,-21.5896)">
 					<title>Лист.204</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape205-234" transform="translate(18.3776,0)">
+				<g id="shape205-231" transform="translate(18.3776,0)">
 					<title>Лист.205</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st12"/>
 				</g>
-				<g id="shape206-236" transform="translate(18.3776,-0.0159805)">
+				<g id="shape206-233" transform="translate(18.3776,-0.0159805)">
 					<title>Лист.206</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st9"/>
 				</g>
 			</g>
 		</g>
-		<g id="group207-238" transform="translate(605.169,-113.386)">
+		<g id="group207-235" transform="translate(605.169,-113.386)">
 			<title>Hosts.207</title>
-			<g id="group208-239">
+			<g id="group208-236">
 				<title>Лист.208</title>
-				<g id="shape209-240" transform="translate(21.6878,-7.89208)">
+				<g id="shape209-237" transform="translate(21.6878,-7.89208)">
 					<title>Лист.209</title>
 					<rect x="0" y="563.315" width="3.42439" height="31.961" class="st9"/>
 				</g>
-				<g id="shape210-242" transform="translate(0,-39.8531)">
+				<g id="shape210-239" transform="translate(0,-39.8531)">
 					<title>Лист.210</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape211-244" transform="translate(38.8098,-43.2774)">
+				<g id="shape211-241" transform="translate(38.8098,-43.2774)">
 					<title>Лист.211</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape212-246" transform="translate(0,-18.1652)">
+				<g id="shape212-243" transform="translate(0,-18.1652)">
 					<title>Лист.212</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape213-248" transform="translate(38.8098,-21.5896)">
+				<g id="shape213-245" transform="translate(38.8098,-21.5896)">
 					<title>Лист.213</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape214-250" transform="translate(18.3776,0)">
+				<g id="shape214-247" transform="translate(18.3776,0)">
 					<title>Лист.214</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st12"/>
 				</g>
-				<g id="shape215-252" transform="translate(18.3776,-0.0159805)">
+				<g id="shape215-249" transform="translate(18.3776,-0.0159805)">
 					<title>Лист.215</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st9"/>
 				</g>
 			</g>
 		</g>
-		<g id="group216-254" transform="translate(666.142,-113.386)">
+		<g id="group216-251" transform="translate(666.142,-113.386)">
 			<title>Hosts.216</title>
-			<g id="group217-255">
+			<g id="group217-252">
 				<title>Лист.217</title>
-				<g id="shape218-256" transform="translate(21.6878,-7.89208)">
+				<g id="shape218-253" transform="translate(21.6878,-7.89208)">
 					<title>Лист.218</title>
 					<rect x="0" y="563.315" width="3.42439" height="31.961" class="st9"/>
 				</g>
-				<g id="shape219-258" transform="translate(0,-39.8531)">
+				<g id="shape219-255" transform="translate(0,-39.8531)">
 					<title>Лист.219</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape220-260" transform="translate(38.8098,-43.2774)">
+				<g id="shape220-257" transform="translate(38.8098,-43.2774)">
 					<title>Лист.220</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape221-262" transform="translate(0,-18.1652)">
+				<g id="shape221-259" transform="translate(0,-18.1652)">
 					<title>Лист.221</title>
 					<path d="M44.9 579.3 L1.9 579.3 C0.85 579.3 0 580.15 0 581.2 L0 593.37 C0 594.42 0.85 595.28 1.9 595.28 L44.9
 								 595.28 C45.95 595.28 46.8 594.42 46.8 593.37 L46.8 581.2 C46.8 580.15 45.94 579.3 44.9 579.3 Z"
 							class="st10"/>
 				</g>
-				<g id="shape222-264" transform="translate(38.8098,-21.5896)">
+				<g id="shape222-261" transform="translate(38.8098,-21.5896)">
 					<title>Лист.222</title>
 					<path d="M0 585 L3.42 585 L3.42 588.43 L0 588.43 L0 585 ZM0 591.85 L3.42 591.85 L3.42 595.28 L0 595.28 L0 591.85
 								 Z" class="st11"/>
 				</g>
-				<g id="shape223-266" transform="translate(18.3776,0)">
+				<g id="shape223-263" transform="translate(18.3776,0)">
 					<title>Лист.223</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st12"/>
 				</g>
-				<g id="shape224-268" transform="translate(18.3776,-0.0159805)">
+				<g id="shape224-265" transform="translate(18.3776,-0.0159805)">
 					<title>Лист.224</title>
 					<ellipse cx="5.02244" cy="590.253" rx="5.02244" ry="5.02244" class="st9"/>
 				</g>
 			</g>
 		</g>
-		<g id="shape225-270" transform="translate(552.756,-297.638)">
+		<g id="shape225-267" transform="translate(552.756,-297.638)">
 			<title>Лист.225</title>
 			<desc>Регион 3</desc>
 			<rect x="0" y="575.276" width="152" height="20" class="st13"/>
 			<text x="46.44" y="590.08" class="st14">Регион 3</text>		</g>
-		<g id="group226-273" transform="translate(609.449,-212.598)">
+		<g id="group226-270" transform="translate(609.449,-212.598)">
 			<title>Azure Database for PostgreSQL servers.226</title>
-			<g id="group227-274">
+			<g id="group227-271">
 				<title>Icon-databases-131</title>
-				<g id="shape228-275">
+				<g id="shape228-272">
 					<title>Лист.228</title>
 					<path d="M14.17 567.95 C6.35 567.95 0 565.74 0 562.82 L0 590.15 C0 592.95 6.24 595.23 13.97 595.28 L14.17 595.28
 								 C22 595.28 28.35 593.06 28.35 590.15 L28.35 562.82 C28.35 565.65 22 567.95 14.17 567.95 Z"
 							class="st15"/>
 				</g>
-				<g id="shape229-278" transform="translate(0,-27.3293)">
+				<g id="shape229-275" transform="translate(0,-27.3293)">
 					<title>Лист.229</title>
 					<path d="M28.35 590.15 C28.35 592.98 22 595.28 14.17 595.28 C6.35 595.28 0 593.06 0 590.15 C0 587.23 6.35 585.02
 								 14.17 585.02 C22 585.02 28.35 587.23 28.35 590.15 Z" class="st16"/>
 				</g>
-				<g id="shape230-280" transform="translate(3.29456,-29.6068)">
+				<g id="shape230-277" transform="translate(3.29456,-29.6068)">
 					<title>Лист.230</title>
 					<path d="M21.74 592 C21.74 593.82 16.87 595.28 10.88 595.28 C4.89 595.28 0 593.82 0 592.03 C0 590.23 4.86 588.75
 								 10.88 588.75 C16.89 588.75 21.74 590.21 21.74 592 Z" class="st17"/>
 				</g>
-				<g id="shape231-282" transform="translate(5.54989,-29.6068)">
+				<g id="shape231-279" transform="translate(5.54989,-29.6068)">
 					<title>Лист.231</title>
 					<path d="M8.62 592.82 A25.7595 25.7595 -180 0 0 -0 594.08 A25.4941 25.4941 -180 0 0 8.62 595.28 A25.3615 25.3615
 								 -180 0 0 17.22 593.99 A26.3786 26.3786 -180 0 0 8.62 592.82 Z" class="st18"/>
 				</g>
-				<g id="shape232-284" transform="translate(4.22322,-3.91367)">
+				<g id="shape232-281" transform="translate(4.22322,-3.91367)">
 					<title>Лист.232</title>
 					<path d="M16.58 580.39 L16.58 581.32 A11.3209 11.3209 -180 0 0 16.41 582.72 C16.41 582.98 16.41 583.38 16.52
 								 583.73 C16.63 584.09 16.52 584.33 16.52 584.53 A3.71467 3.71467 0 0 1 15.96 586.43 a0.950778 0.950778
@@ -894,24 +889,24 @@
 				</g>
 			</g>
 		</g>
-		<g id="group233-286" transform="translate(660.078,-212.598)">
+		<g id="group233-283" transform="translate(660.078,-212.598)">
 			<title>Local Network Gateways.233</title>
-			<g id="group234-287">
+			<g id="group234-284">
 				<title>Лист.234</title>
-				<g id="shape235-288">
+				<g id="shape235-285">
 					<title>Лист.235</title>
 					<path d="M18.71 595.28 C17.82 595.28 16.92 594.9 16.24 594.23 L1.05 579.03 C0.37 578.36 0 577.46 0 576.56 C0
 								 575.66 0.37 574.76 1.05 574.09 L16.24 558.9 C16.92 558.22 17.82 557.85 18.71 557.85 C19.61 557.85
 								 20.51 558.22 21.18 558.9 L36.46 574.17 C37.13 574.84 37.5 575.66 37.5 576.64 C37.5 577.53 37.13
 								 578.43 36.46 579.11 L21.18 594.23 C20.51 594.9 19.61 595.28 18.71 595.28 Z" class="st12"/>
 				</g>
-				<g id="shape236-290" transform="translate(-1.95843E-13,-7.63537)">
+				<g id="shape236-287" transform="translate(-1.95843E-13,-7.63537)">
 					<title>Лист.236</title>
 					<path d="M21.18 566.53 C20.51 565.86 19.61 565.48 18.71 565.48 C17.82 565.48 16.92 565.86 16.24 566.53 L1.05
 								 581.73 C0.37 582.4 0 583.3 0 584.2 C0 585.1 0.37 585.99 1.05 586.67 L9.66 595.28 L25.9 571.25 L21.18
 								 566.53 Z" class="st20"/>
 				</g>
-				<g id="shape237-292" transform="translate(4.79082,-3.29369)">
+				<g id="shape237-289" transform="translate(4.79082,-3.29369)">
 					<title>Лист.237</title>
 					<path d="M13.92 564.43 L8.98 569.38 L12.5 569.38 L12.5 576.56 L15.42 576.56 L15.42 569.38 L18.86 569.38 L13.92
 								 564.43 ZM13.92 595.28 L18.86 590.34 L15.35 590.34 L15.35 583.3 L12.43 583.3 L12.43 590.34 L8.98
@@ -921,70 +916,110 @@
 				</g>
 			</g>
 		</g>
-		<g id="shape238-294" transform="translate(552.756,-259.291)">
+		<g id="shape238-291" transform="translate(552.756,-259.291)">
 			<title>Лист.238</title>
 			<desc>Поставщики ресурсов</desc>
 			<rect x="0" y="575.276" width="152" height="20" class="st13"/>
 			<text x="20.26" y="588.88" class="st22">Поставщики ресурсов</text>		</g>
-		<g id="shape239-297" transform="translate(510.236,-212.598)">
+		<g id="shape239-294" transform="translate(510.236,-212.598)">
 			<title>Простая стрелка</title>
 			<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L14.17 589.61 L14.17 595.28 L14.17 600.94 L11.34 600.94 L11.34 606.61
 						 L0 595.28 Z" class="st23"/>
 		</g>
-		<g id="shape242-299" transform="translate(-425.197,269.291) rotate(-90)">
+		<g id="shape242-296" transform="translate(-425.197,269.291) rotate(-90)">
 			<title>Простая стрелка.242</title>
 			<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L42.52 589.61 L42.52 595.28 L42.52 600.94 L11.34 600.94 L11.34 606.61
 						 L0 595.28 Z" class="st23"/>
 		</g>
-		<g id="shape243-301" transform="translate(-198.425,269.291) rotate(-90)">
+		<g id="shape243-298" transform="translate(-198.425,269.291) rotate(-90)">
 			<title>Простая стрелка.243</title>
 			<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L42.52 589.61 L42.52 595.28 L42.52 600.94 L11.34 600.94 L11.34 606.61
 						 L0 595.28 Z" class="st23"/>
 		</g>
-		<g id="shape244-303" transform="translate(28.3465,269.291) rotate(-90)">
+		<g id="shape244-300" transform="translate(28.3465,269.291) rotate(-90)">
 			<title>Простая стрелка.244</title>
 			<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L42.52 589.61 L42.52 595.28 L42.52 600.94 L11.34 600.94 L11.34 606.61
 						 L0 595.28 Z" class="st23"/>
 		</g>
-		<g id="shape241-305" transform="translate(-198.425,155.906) rotate(-90)">
-			<title>Простая стрелка.241</title>
-			<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L56.69 589.61 L56.69 595.28 L56.69 600.94 L11.34 600.94 L11.34 606.61
-						 L0 595.28 Z" class="st23"/>
-		</g>
-		<g id="group1-307" transform="translate(675.737,-510.236)">
+		<g id="group1-302" transform="translate(675.737,-411.024)">
 			<title>Azure Active Directory</title>
-			<g id="group2-308">
+			<g id="group2-303">
 				<title>Лист.2</title>
-				<g id="shape3-309">
+				<g id="shape3-304">
 					<title>Лист.3</title>
 					<path d="M2.63 577.08 L23.22 590.44 L44.17 577.02 L46.8 580.09 L23.22 595.28 L0 580.09 L2.63 577.08 Z"
 							class="st17"/>
 				</g>
-				<g id="shape4-311" transform="translate(4.186,-7.618)">
+				<g id="shape4-306" transform="translate(4.186,-7.618)">
 					<title>Лист.4</title>
 					<path d="M0 582.98 L19.03 560.31 L38.45 583 L19.03 595.28 L0 582.98 Z" class="st24"/>
 				</g>
-				<g id="shape5-313" transform="translate(4.186,-7.618)">
+				<g id="shape5-308" transform="translate(4.186,-7.618)">
 					<title>Лист.5</title>
 					<path d="M19.03 560.31 L19.03 595.28 L0 582.98 L19.03 560.31 Z" class="st17"/>
 				</g>
-				<g id="shape6-315" transform="translate(23.218,-7.618)">
+				<g id="shape6-310" transform="translate(23.218,-7.618)">
 					<title>Лист.6</title>
 					<path d="M0 560.31 L0 595.28 L19.42 583 L0 560.31 Z" class="st25"/>
 				</g>
-				<g id="shape7-319" transform="translate(23.218,-7.618)">
+				<g id="shape7-314" transform="translate(23.218,-7.618)">
 					<title>Лист.7</title>
 					<path d="M0 578.38 L19.42 583 L0 595.28 L0 578.38 Z" class="st26"/>
 				</g>
-				<g id="shape8-321" transform="translate(4.186,-7.618)">
+				<g id="shape8-316" transform="translate(4.186,-7.618)">
 					<title>Лист.8</title>
 					<path d="M19.03 595.28 L0 582.98 L19.03 578.38 L19.03 595.28 Z" class="st27"/>
 				</g>
-				<g id="shape9-323" transform="translate(23.218,2.27374E-13)">
+				<g id="shape9-318" transform="translate(23.218,2.27374E-13)">
 					<title>Лист.9</title>
 					<path d="M0 595.28 L23.58 580.09 L20.96 577.02 L0 590.44 L0 595.28 Z" class="st28"/>
 				</g>
 			</g>
 		</g>
+		<g id="shape249-322" transform="translate(82.4724,-170.079)">
+			<title>Лист.249</title>
+			<desc>Зона 1</desc>
+			<rect x="0" y="575.276" width="61.8268" height="20" class="st13"/>
+			<text x="14.43" y="588.88" class="st22">Зона 1</text>		</g>
+		<g id="shape250-325" transform="translate(141.732,-170.079)">
+			<title>Лист.250</title>
+			<desc>Зона 2</desc>
+			<rect x="0" y="575.276" width="61.8268" height="20" class="st13"/>
+			<text x="14.43" y="588.88" class="st22">Зона 2</text>		</g>
+		<g id="shape251-328" transform="translate(207.465,-170.079)">
+			<title>Лист.251</title>
+			<desc>Зона 3</desc>
+			<rect x="0" y="575.276" width="61.8268" height="20" class="st13"/>
+			<text x="14.43" y="588.88" class="st22">Зона 3</text>		</g>
+		<g id="shape252-331" transform="translate(309.244,-170.079)">
+			<title>Лист.252</title>
+			<desc>Зона 1</desc>
+			<rect x="0" y="575.276" width="61.8268" height="20" class="st13"/>
+			<text x="14.43" y="588.88" class="st22">Зона 1</text>		</g>
+		<g id="shape253-334" transform="translate(368.504,-170.079)">
+			<title>Лист.253</title>
+			<desc>Зона 2</desc>
+			<rect x="0" y="575.276" width="61.8268" height="20" class="st13"/>
+			<text x="14.43" y="588.88" class="st22">Зона 2</text>		</g>
+		<g id="shape254-337" transform="translate(434.236,-170.079)">
+			<title>Лист.254</title>
+			<desc>Зона 3</desc>
+			<rect x="0" y="575.276" width="61.8268" height="20" class="st13"/>
+			<text x="14.43" y="588.88" class="st22">Зона 3</text>		</g>
+		<g id="shape255-340" transform="translate(536.016,-170.079)">
+			<title>Лист.255</title>
+			<desc>Зона 1</desc>
+			<rect x="0" y="575.276" width="61.8268" height="20" class="st13"/>
+			<text x="14.43" y="588.88" class="st22">Зона 1</text>		</g>
+		<g id="shape256-343" transform="translate(595.276,-170.079)">
+			<title>Лист.256</title>
+			<desc>Зона 2</desc>
+			<rect x="0" y="575.276" width="61.8268" height="20" class="st13"/>
+			<text x="14.43" y="588.88" class="st22">Зона 2</text>		</g>
+		<g id="shape257-346" transform="translate(661.008,-170.079)">
+			<title>Лист.257</title>
+			<desc>Зона 3</desc>
+			<rect x="0" y="575.276" width="61.8268" height="20" class="st13"/>
+			<text x="14.43" y="588.88" class="st22">Зона 3</text>		</g>
 	</g>
 </svg>
